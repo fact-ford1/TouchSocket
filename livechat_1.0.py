@@ -5,7 +5,7 @@ from tkinter import scrolledtext, simpledialog
 from datetime import datetime
 
 # Global socket
-chat_socket = None
+chat_socket = None #...
 connected = False
 
 # Create GUI
